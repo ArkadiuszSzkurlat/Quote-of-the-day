@@ -1,12 +1,13 @@
 {
-  "name": "Dominiczka",
+  "name": "qoute-of-the-day",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "dev": "vite"
   },
   "keywords": [],
+  "homepage": ".",
   "author": "",
   "license": "ISC",
   "devDependencies": {
