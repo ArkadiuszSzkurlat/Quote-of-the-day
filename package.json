@@ -1,13 +1,15 @@
 {
   "name": "qoute-of-the-day",
+  "homepage": ".",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
   "scripts": {
-    "dev": "vite"
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
   },
   "keywords": [],
-  "homepage": ".",
   "author": "",
   "license": "ISC",
   "devDependencies": {
