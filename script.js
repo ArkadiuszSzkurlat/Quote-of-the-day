@@ -4,6 +4,7 @@ let quote;
 let author;
 let quotes;
 
+console.log('Skrypt działa');
 const init = async () => {
   quote = await document.querySelector('.quote');
   author = await document.querySelector('.author');
