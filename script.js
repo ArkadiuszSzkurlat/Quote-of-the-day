@@ -65,3 +65,4 @@ init();
 // Add images only that inspirational
 // Better look
 // Poprawić ogólny look
+// Przenieść script do głównego folderu
